@@ -4,6 +4,8 @@ World Happiness Report Data Analysis
  
  https://www.kaggle.com/code/jyotimanojmandal/world-happiness-expanatory-data-analysis/edit
  
+ http://localhost:8888/notebooks/World%20Happiness%20Report%20Data%20Analysis.ipynb
+ 
 • Bivariate Data Analysis
 • Multivariate data analysis
 • Seaborn Library Visualization Techniques: bar, box, kde, swarm, heatmap, clustermap
